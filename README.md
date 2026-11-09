@@ -185,3 +185,9 @@ ai-research-assistant/
 | `biopython` | PubMed access via NCBI Entrez |
 | `arxiv` | arXiv search |
 | `pyyaml` | Parsing YAML frontmatter in topic and screening templates |
+
+---
+
+## License
+
+[MIT](LICENSE) © Tom Kraus
